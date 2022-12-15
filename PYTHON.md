@@ -23,3 +23,4 @@ not operators first, than and and finally or.
 - Conditions
 - Clauses
 - Blocks
+- While loop statements
