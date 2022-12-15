@@ -23,4 +23,16 @@ not operators first, than and and finally or.
 - Conditions
 - Clauses
 - Blocks
-- While loop statements
+- While loops (break, continue)
+- For loops (range())
+- Starting, stoping, and steping arguments to range(arg1: startfrom, arg2: upto, step)
+- Importing modules - Standard Library
+
+Standard Library modules:
+
+- random
+- statistics
+- math
+- sys
+- os
+- cryptographic services

@@ -27,7 +27,7 @@ elif player_choice == "scissors":
     elif computer_choice == "scissors":
         print("This round is equal. Well played try again!")
 else:
-    player_choice = input().lower()
+    print("Wrong choice! Please try again. You can choose rock, paper or scissors")
 
 
 print("Computer chose: " + computer_choice)
